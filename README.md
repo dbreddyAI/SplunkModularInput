@@ -1,0 +1,2 @@
+Splunk Modular Input Example
+

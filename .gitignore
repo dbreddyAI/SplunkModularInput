@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea
+build/
+etc/apps/SplunkModularInput/default/inputs.conf
+etc/apps/SplunkModularInput/local/
+*.pyc
